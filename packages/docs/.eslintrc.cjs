@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['@ignite-ui/eslint-config'],
+  extends: ['@kaique-ignite-ui/eslint-config'],
 }
