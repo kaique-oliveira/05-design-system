@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+    },
+  "devDependencies": {
+    "@storybook/addons": "^7.6.17",
+    "turbo": "^1.13.2"
+  }
+}
